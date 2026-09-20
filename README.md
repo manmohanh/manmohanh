@@ -60,16 +60,7 @@ I'm a **Full-Stack Developer from India** passionate about building scalable web
   <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,firebase,git,github" />
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manmohanh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmohanh&layout=compact&hide_border=true&theme=transparent" height="165" />
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
