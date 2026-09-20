@@ -77,15 +77,7 @@ I'm a **Full-Stack Developer from India** passionate about building scalable web
   <img src="https://streak-stats.demolab.com?user=manmohanh&hide_border=true&theme=transparent" />
 </p>
 
----
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manmohanh&hide_border=true&area=true&theme=github-compact" />
-</p>
-
----
 
 ## 💡 What I Like Building
 
