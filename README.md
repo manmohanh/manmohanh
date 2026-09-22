@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manmohan Hansda</h1>
 
 <h3 align="center">
-Full-Stack Developer • React • Next.js • Node.js • TypeScript
+Full-Stack Developer • React • Next.js • Node.js • TypeScript,Express
 </h3>
 
 <p align="center">
